@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Superhero</string>
+    <string name="favourite">Favourite</string>
+    <string name="view_more">View More</string>
+    <string name="no_super_hero">No super hero</string>
+    <string name="profile">Profile</string>
+    <string name="shop">Shop</string>
+    <string name="invites">Invites</string>
+    <string name="hero">Hero</string>
+    <string name="biography">Biography</string>
+    <string name="appearance">Appearance</string>
+    <string name="power_stats">Power Stats</string>
+    <string name="work">Work</string>
+    <string name="connections">Connections</string>
+    <string name="new_features">New Features Coming Soon, Stay Tuned!</string>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f79230</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#252f6a</color>
+
+    <color name="colorDarkSlateBlue">#252f6a</color>
+    <color name="colorDarkSlateBlue2">#141d50</color>
+    <color name="colorDarkSlateBlue3">#313c79</color>
+    <color name="colorDarkSlateBlue4">#030824</color>
+    <color name="colorDarkSlateBlue5">#7780b2</color>
+    <color name="colorDarkSlateBlue6">#23000000</color>
+    <color name="colorGreen">#51cbc4</color>
+    <color name="colorGreen2">#0ea8a2</color>
+    <color name="colorOrange">#f79230</color>
+    <color name="colorOrangeDisabled">#fcd4ad</color>
+    <color name="colorGrey">#F9F9F9</color>
+    <color name="colorGrey2">#E5E5E5</color>
+    <color name="colorGrey3">#12000000</color>
+    <color name="colorGrey4">#d8d8d8</color>
+    <color name="colorGrey5">#bfbfbf</color>
+    <color name="colorGrey6">#a8acb3</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorWhiteOpacity_34">#57FFFFFF</color>
+    <color name="colorWhiteOpacity_55">#8CFFFFFF</color>
+
+    <color name="colorTextDefault">#54475b</color>
+    <color name="colorTextDefaultOpacity_56">#8F54475B</color>
+    <color name="colorTextDefault2">#53435b</color>
+    <color name="colorTextDefault3">#aeb2c8</color>
+    <color name="colorTextDefault4">#a49ba7</color>
+    <color name="colorTextDefault5">#fbcfa4</color>
+    <color name="colorTextDefault6">#b8ffffff</color>
+    <color name="colorTextDefault7">#C4C0C7</color>
+    <color name="colorTextDefault8">#80ffffff</color>
+
+    <color name="colorBackgroundYellow">#eebc42</color>
+    <color name="colorWheat">#ffda8a</color>
+    <color name="colorWheat2">#eda074</color>
+    <color name="colorTealish">#1fa8a1</color>
+    <color name="colorProgressUnfinished">#5f6792</color>
+    <color name="colorRed">#e56774</color>
+    <color name="colorRateUs">#343e73</color>
+    <color name="colorStarsHighlight">#F7CE46</color>
+    <color name="colorOrangeChallenge">#ff9c4b</color>
+
+    <color name="colorPopupWindowBackgroundTransparent">#AA000000</color>
+    <color name="colorBackgroundTransparent">#00000000</color>
+    <color name="colorDarkPurple">#3d4058</color>
+    <color name="colorToggleNormal">#42aaa5</color>
+    <color name="progressBarBackground">#6e759c</color>
+
+    <color name="colorPink">#FF007F</color>
+    <color name="colorLightBlue">#00B2FF</color>
+    <color name="colorLightGreen">#00FF41</color>
+    <color name="colorLightYellow">#fffc00</color>
+    <color name="spotlightBackground">#BF000000</color>
+</resources>

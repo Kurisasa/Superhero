@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="?android:attr/actionBarSize"
+    android:layout_marginTop="@dimen/dimen_20dp"
+    android:background="@android:color/transparent"
+    tools:background="@android:color/transparent"
+    android:elevation="@dimen/dimen_10dp"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="@dimen/dimen_10dp">
+
+        <LinearLayout
+            android:id="@+id/layoutToolbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:focusable="true"
+            android:clickable="true">
+
+
+            <SearchView
+                android:id="@+id/simpleSearchView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:iconifiedByDefault="false"
+                android:queryHint="Search SuperHero"
+                android:background="@color/colorPrimary"
+                />
+
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>
