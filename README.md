@@ -8,19 +8,24 @@ Programming Language: Kotlin
 
 
 Modular development approach
+
 
 Model This is an interface defining the data to be displayed or otherwise
 acted upon in the user interface.
+
 
 View This is a passive interface that displays data (the model) and routes
-user commands ( events ) to the presenter to act upon that
+user commands ( events ) to the presenter to act upon that.
+
 
 Presenter The middle man that acts upon the model and the view. It
 retrieves data from repositories (the model), and formats it for display in the
 view.
+
 
 Manager This is part of the model layer, but allows reuse of model layer
 across modules.
+
 
 Repository This is responsible for accessing the API and receiving API
 
